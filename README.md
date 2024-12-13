@@ -4,7 +4,7 @@
 
 1. [Team C - ML](#Team-C242-PS448---ML)
 2. [What is REPLASTE?](#REPLASTE)
-3. Plastic Classification
+3. [Plastic Classification](#Plastic-Classification)
 
 ## Team C242-PS448 - ML
 

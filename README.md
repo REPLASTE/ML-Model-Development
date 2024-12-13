@@ -16,4 +16,4 @@
 
 ## REPLASTE
 
-This application can detect and classify various plastic waste items using computer vision and a Convolutional Neural Network (CNN) model. By integrating this AI-powered recognition capability into the app, we can offer users real-time guidance on the appropriate recycling or disposal methods for each type of plastic. This will empower individuals to make more informed decisions and develop sustainable waste management habits.
+This application can detect and classify various plastic waste items using computer vision and a Convolutional Neural Network (CNN) model, specifically MobileNetV2. MobileNetV2's efficiency and accuracy enable real-time analysis, even on devices with limited processing power. By integrating this AI-powered recognition capability into the app, we can offer users real-time guidance on the appropriate recycling or disposal methods for each type of plastic. This will empower individuals to make more informed decisions and develop sustainable waste management habits.
